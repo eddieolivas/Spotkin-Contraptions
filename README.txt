@@ -17,8 +17,6 @@ you put the stable version, in order to eliminate any doubt.
 
 This section describes how to install the plugin and get it working.
 
-e.g.
-
 1. Upload the contents of `spotkin-contraptions.zip` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Place `<?php do_shortcode('[contraption]'); ?>` in your templates or simply add [contraption] to your pages
